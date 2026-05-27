@@ -16,6 +16,7 @@ I recently completed the **Google Cybersecurity Professional Certificate**, a ha
 | [Filtering with grep](labs/linux-grep-filtering.md) | `grep`, pipes — extracting errors from server logs, filtering files by name, searching user records |
 | [Managing Files with Linux Commands](labs/linux-file-management.md) | `mkdir`, `rmdir`, `mv`, `rm`, `touch`, `nano` — restructuring directories, moving and deleting files, CLI text editing |
 | [Managing Authorization with Linux Permissions](labs/linux-manage-authorization.md) | `ls -la`, `chmod` — auditing and correcting file/directory permissions, principle of least privilege |
+| [Adding and Managing Users](labs/linux-user-management.md) | `useradd`, `usermod`, `chown`, `userdel`, `groupdel` — full user lifecycle from onboarding to offboarding |
 
 ### Network Security
 > Coming soon
