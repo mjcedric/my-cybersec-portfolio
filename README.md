@@ -38,6 +38,7 @@ I recently completed the **Google Cybersecurity Professional Certificate**, a ha
 | Lab | Skills |
 |-----|--------|
 | [Analyzing Network Packets with Wireshark](labs/network-wireshark-packet-analysis.md) | Packet filtering, protocol layer inspection, DNS/TCP analysis, payload search |
+| [Capturing Network Traffic with tcpdump](labs/network-tcpdump-packet-capture.md) | `tcpdump` flags, live capture, saving to pcap, hex/ASCII payload inspection |
 
 ### Python Scripting
 > Coming soon
