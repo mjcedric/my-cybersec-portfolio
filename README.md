@@ -49,6 +49,7 @@ I recently completed the **Google Cybersecurity Professional Certificate**, a ha
 | [Creating Conditional Statements](labs/python-conditional-statements.md) | `if/elif/else`, `and`/`or`, `in` operator, allow lists, Boolean access control — [notebook](notebooks/python-conditional-statements.ipynb) |
 | [Creating Loops](labs/python-loops.md) | `for`/`while` loops, IP allow-list enforcement, `break` on unauthorised access, ID generation |
 | [Defining and Calling Functions](labs/python-functions.md) | `def`, reusable alert functions, string concatenation, list-to-string conversion |
+| [Advanced Functions — Login Anomaly Detection](labs/python-functions-advanced.md) | `sorted()`, `max()`, parameters, `return` vs `print()`, ratio-based threshold alerting |
 
 ### Incident Response & Threat Intelligence
 
