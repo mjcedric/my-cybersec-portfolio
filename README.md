@@ -52,6 +52,7 @@ I recently completed the **Google Cybersecurity Professional Certificate**, a ha
 | [Advanced Functions — Login Anomaly Detection](labs/python-functions-advanced.md) | `sorted()`, `max()`, parameters, `return` vs `print()`, ratio-based threshold alerting |
 | [Working with Strings](labs/python-strings.md) | `str()`, `len()`, indexing, slicing, `.index()` — ID standardisation and URL parsing — [notebook](notebooks/python-strings.ipynb) |
 | [Developing an Access Control Algorithm](labs/python-algorithm-access-control.md) | Parallel lists, `.append()`, `.remove()`, `.index()`, nested conditionals, `login()` function — [notebook](notebooks/python-algorithm-access-control.ipynb) |
+| [Using Regular Expressions to Find Patterns in Logs](labs/python-regex-log-analysis.md) | `re.findall()`, `\w+`, `\d{1,3}`, IP address extraction, IOC flagging — [notebook](notebooks/python-regex-log-analysis.ipynb) |
 
 ### Incident Response & Threat Intelligence
 
