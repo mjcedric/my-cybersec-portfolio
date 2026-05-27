@@ -26,6 +26,12 @@ I recently completed the **Google Cybersecurity Professional Certificate**, a ha
 | [Performing SQL Queries for Security Analysis](labs/sql-basic-queries.md) | `SELECT`, `WHERE`, `ORDER BY`, `LIKE` — querying device, login, and employee data |
 | [Applying Advanced Filters in SQL](labs/sql-advanced-filters.md) | `BETWEEN`, `AND`, `OR`, `NOT` — date/time filtering, after-hours logins, incident scoping |
 
+### Cryptography
+
+| Lab | Skills |
+|-----|--------|
+| [Decrypting an Encrypted Message](labs/cryptography-decrypt-message.md) | Caesar cipher, `tr`, `openssl` AES-256-CBC — classical and modern decryption |
+
 ### Network Security
 > Coming soon
 
