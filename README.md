@@ -1,8 +1,14 @@
 # Cybersecurity Portfolio
 
-![Google Cybersecurity Certificate](https://img.shields.io/badge/Google-Cybersecurity%20Professional%20Certificate-blue?logo=google)
+## Hello, I am Cedric
 
-I recently completed the **Google Cybersecurity Professional Certificate**, a hands-on program covering network security, Linux administration, Python scripting, SQL-based log analysis, and SIEM tools. This portfolio documents the labs I completed throughout the program, written up as real-world analyst scenarios.
+I recently completed the **Google Cybersecurity Professional Certificate**, a hands-on program covering network security, Linux administration, Python scripting, SQL-based log analysis, and SIEM tools. This portfolio documents the labs I completed throughout the program, written up as real-world analyst scenarios. I am currently continuing my education on TryHackMe platform and additional resources.
+
+---
+
+## Objective
+
+My goal is to build a career in cybersecurity with a focus on cyber defense, security operations, incident response, and governance, risk, and compliance (GRC). I am particularly motivated by protecting organizations, sensitive data, and users through threat detection, risk management, security awareness, and defensive security practices. Starting in May 2026, I have began a specialized training program to prepare for the Swiss Federal Bachelor as a Cybersecurity Specialist, while actively seeking entry-level SOC Analyst, Cyber Defense, GRC, or Incident Response opportunities where I can apply my technical and analytical skills, gain hands-on experience, and contribute to strengthening organizational security.
 
 ---
 
@@ -61,9 +67,5 @@ I recently completed the **Google Cybersecurity Professional Certificate**, a ha
 | [Investigating a Suspicious File Hash](labs/incident-response-virustotal-ioc.md) | VirusTotal, IOC analysis, Pyramid of Pain, MITRE ATT&CK, sandbox behavior |
 
 ---
-
-## About
-
-Aspiring cybersecurity professional with hands-on experience in Linux CLI, network traffic analysis, Python automation, and security information management. Currently building toward a role in security operations or threat analysis.
 
 **Certification:** [Google Cybersecurity Professional Certificate](certifications/google-cybersecurity-certificate.pdf)
