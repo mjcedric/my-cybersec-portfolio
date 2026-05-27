@@ -31,6 +31,7 @@ I recently completed the **Google Cybersecurity Professional Certificate**, a ha
 | Lab | Skills |
 |-----|--------|
 | [Decrypting an Encrypted Message](labs/cryptography-decrypt-message.md) | Caesar cipher, `tr`, `openssl` AES-256-CBC — classical and modern decryption |
+| [Creating and Comparing File Hash Values](labs/cryptography-file-hashing.md) | `sha256sum`, `cmp` — file integrity verification, avalanche effect, forensic hashing |
 
 ### Network Security
 > Coming soon
