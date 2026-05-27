@@ -50,6 +50,7 @@ I recently completed the **Google Cybersecurity Professional Certificate**, a ha
 | [Creating Loops](labs/python-loops.md) | `for`/`while` loops, IP allow-list enforcement, `break` on unauthorised access, ID generation |
 | [Defining and Calling Functions](labs/python-functions.md) | `def`, reusable alert functions, string concatenation, list-to-string conversion |
 | [Advanced Functions — Login Anomaly Detection](labs/python-functions-advanced.md) | `sorted()`, `max()`, parameters, `return` vs `print()`, ratio-based threshold alerting |
+| [Working with Strings](labs/python-strings.md) | `str()`, `len()`, indexing, slicing, `.index()` — ID standardisation and URL parsing — [notebook](notebooks/python-strings.ipynb) |
 
 ### Incident Response & Threat Intelligence
 
