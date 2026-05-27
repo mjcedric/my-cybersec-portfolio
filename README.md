@@ -8,7 +8,7 @@ I recently completed the **Google Cybersecurity Professional Certificate**, a ha
 
 ## Objective
 
-My goal is to build a career in cybersecurity with a focus on cyber defense, security operations, incident response, and governance, risk, and compliance (GRC). I am particularly motivated by protecting organizations, sensitive data, and users through threat detection, risk management, security awareness, and defensive security practices. Starting in May 2026, I have began a specialized training program to prepare for the Swiss Federal Bachelor as a Cybersecurity Specialist, while actively seeking entry-level SOC Analyst, Cyber Defense, GRC, or Incident Response opportunities where I can apply my technical and analytical skills, gain hands-on experience, and contribute to strengthening organizational security.
+My goal is to build a career in cybersecurity with a focus on cyber defense, security operations, incident response, and governance, risk, and compliance (GRC). I am particularly motivated by protecting organizations, sensitive data, and users through threat detection, risk management, security awareness, and defensive security practices. I am continuing to learn and grow, while actively seeking entry-level SOC Analyst, Cyber Defense, GRC, or Incident Response opportunities where I can apply my technical and analytical skills, gain hands-on experience, and contribute to strengthening organizational security.
 
 ---
 
