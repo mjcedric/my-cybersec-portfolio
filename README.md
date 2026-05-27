@@ -34,7 +34,10 @@ I recently completed the **Google Cybersecurity Professional Certificate**, a ha
 | [Creating and Comparing File Hash Values](labs/cryptography-file-hashing.md) | `sha256sum`, `cmp` — file integrity verification, avalanche effect, forensic hashing |
 
 ### Network Security
-> Coming soon
+
+| Lab | Skills |
+|-----|--------|
+| [Analyzing Network Packets with Wireshark](labs/network-wireshark-packet-analysis.md) | Packet filtering, protocol layer inspection, DNS/TCP analysis, payload search |
 
 ### Python Scripting
 > Coming soon
