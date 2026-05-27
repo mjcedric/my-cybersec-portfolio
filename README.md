@@ -43,7 +43,10 @@ I recently completed the **Google Cybersecurity Professional Certificate**, a ha
 | [Exploring Signatures and Logs with Suricata](labs/network-suricata-signatures.md) | IDS rule anatomy, custom signatures, fast.log, eve.json, `jq` log parsing |
 
 ### Python Scripting
-> Coming soon
+
+| Lab | Skills |
+|-----|--------|
+| [Creating Conditional Statements](labs/python-conditional-statements.md) | `if/elif/else`, `and`/`or`, `in` operator, allow lists, Boolean access control — [notebook](notebooks/python-conditional-statements.ipynb) |
 
 ### Incident Response & Threat Intelligence
 
