@@ -1,4 +1,4 @@
-# My Cybersecurity Portfolio
+# Google Cybersecurity Professional Certificate Course
 
 ![Google Cybersecurity Certificate](https://img.shields.io/badge/Google-Cybersecurity%20Professional%20Certificate-blue?logo=google)
 
