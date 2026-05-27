@@ -13,6 +13,7 @@ I recently completed the **Google Cybersecurity Professional Certificate**, a ha
 | Lab | Skills |
 |-----|--------|
 | [Finding Files with Linux Commands](labs/linux-file-navigation.md) | `pwd`, `ls`, `cd`, `cat`, `head` — file system navigation and log inspection |
+| [Filtering with grep](labs/linux-grep-filtering.md) | `grep`, pipes — extracting errors from server logs, filtering files by name, searching user records |
 
 ### Network Security
 > Coming soon
