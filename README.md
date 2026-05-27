@@ -66,4 +66,4 @@ I recently completed the **Google Cybersecurity Professional Certificate**, a ha
 
 Aspiring cybersecurity professional with hands-on experience in Linux CLI, network traffic analysis, Python automation, and security information management. Currently building toward a role in security operations or threat analysis.
 
-**Certification:** [Google Cybersecurity Professional Certificate](https://grow.google/certificates/cybersecurity/)
+**Certification:** [Google Cybersecurity Professional Certificate](certifications/google-cybersecurity-certificate.pdf)
