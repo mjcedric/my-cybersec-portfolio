@@ -17,6 +17,7 @@ I recently completed the **Google Cybersecurity Professional Certificate**, a ha
 | [Managing Files with Linux Commands](labs/linux-file-management.md) | `mkdir`, `rmdir`, `mv`, `rm`, `touch`, `nano` — restructuring directories, moving and deleting files, CLI text editing |
 | [Managing Authorization with Linux Permissions](labs/linux-manage-authorization.md) | `ls -la`, `chmod` — auditing and correcting file/directory permissions, principle of least privilege |
 | [Adding and Managing Users](labs/linux-user-management.md) | `useradd`, `usermod`, `chown`, `userdel`, `groupdel` — full user lifecycle from onboarding to offboarding |
+| [Getting Help in the Command Line](labs/linux-help-commands.md) | `whatis`, `man`, `apropos` — navigating Linux documentation and discovering commands |
 
 ### Network Security
 > Coming soon
