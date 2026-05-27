@@ -19,6 +19,12 @@ I recently completed the **Google Cybersecurity Professional Certificate**, a ha
 | [Adding and Managing Users](labs/linux-user-management.md) | `useradd`, `usermod`, `chown`, `userdel`, `groupdel` — full user lifecycle from onboarding to offboarding |
 | [Getting Help in the Command Line](labs/linux-help-commands.md) | `whatis`, `man`, `apropos` — navigating Linux documentation and discovering commands |
 
+### SQL & Data Analysis
+
+| Lab | Skills |
+|-----|--------|
+| [Performing SQL Queries for Security Analysis](labs/sql-basic-queries.md) | `SELECT`, `WHERE`, `ORDER BY`, `LIKE` — querying device, login, and employee data |
+
 ### Network Security
 > Coming soon
 
