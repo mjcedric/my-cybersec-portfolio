@@ -40,6 +40,7 @@ I recently completed the **Google Cybersecurity Professional Certificate**, a ha
 | [Analyzing Network Packets with Wireshark](labs/network-wireshark-packet-analysis.md) | Packet filtering, protocol layer inspection, DNS/TCP analysis, payload search |
 | [Capturing Network Traffic with tcpdump](labs/network-tcpdump-packet-capture.md) | `tcpdump` flags, live capture, saving to pcap, hex/ASCII payload inspection |
 | [Comparing tcpdump and Wireshark](labs/network-tcpdump-vs-wireshark.md) | Tool selection, environment fit, strengths/limitations, combined workflow |
+| [Exploring Signatures and Logs with Suricata](labs/network-suricata-signatures.md) | IDS rule anatomy, custom signatures, fast.log, eve.json, `jq` log parsing |
 
 ### Python Scripting
 > Coming soon
