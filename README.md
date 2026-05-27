@@ -44,8 +44,11 @@ I recently completed the **Google Cybersecurity Professional Certificate**, a ha
 ### Python Scripting
 > Coming soon
 
-### SIEM & Incident Response
-> Coming soon
+### Incident Response & Threat Intelligence
+
+| Lab | Skills |
+|-----|--------|
+| [Investigating a Suspicious File Hash](labs/incident-response-virustotal-ioc.md) | VirusTotal, IOC analysis, Pyramid of Pain, MITRE ATT&CK, sandbox behavior |
 
 ---
 
