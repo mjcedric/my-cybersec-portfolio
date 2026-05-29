@@ -3,7 +3,7 @@
 ## Hello, I am Cedric
 
 I am an aspiring cybersecurity professional with an IT support background. I bring an analytical mindset, strong communication skills, and a collaborative approach to identifying and resolving technical and security issues. Motivated by integrity and a commitment to protecting others, I aim to help organizations strengthen their security posture and defend their systems against evolving cyber threats.
-I recently completed the **Google Cybersecurity Professional Certificate**. This portfolio documents the labs I completed throughout the program, written up as real-world analyst scenarios. I am currently continuing to learn and grow through hands-on exercises on platforms such as TryHackMe and Cybrary.
+I recently completed the **Google Cybersecurity Professional Certificate**. This portfolio documents the labs I completed throughout the program, written up as real-world analyst scenarios. I am currently continuing to learn and grow through hands-on exercises on different platforms such as TryHackMe.
 
 ---
 
@@ -78,5 +78,7 @@ My goal is to build a career in cybersecurity with a focus on cyber defense, sec
 | Google Cybersecurity Professional Certificate | Completed | [View](https://shorturl.at/yTXNp) |
 | CompTIA Security+ | In Progress | Coming Soon |
 | Splunk Core Certified User | Planned | Coming Soon |
+| Microsoft SC-200 | Planned | Coming Soon |
+| Microsoft SC-900 | Planned | Coming Soon |
 
 </div>
