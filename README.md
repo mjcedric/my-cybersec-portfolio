@@ -78,7 +78,7 @@ My goal is to build a career in cybersecurity with a focus on cyber defense, sec
 | Google Cybersecurity Professional Certificate | Completed | [View](https://shorturl.at/yTXNp) |
 | CompTIA Security+ | In Progress | Coming Soon |
 | Splunk Core Certified User | Planned | Coming Soon |
-| Microsoft SC-200 | Planned | Coming Soon |
-| Microsoft SC-900 | Planned | Coming Soon |
+| ISO 27001 Lead Auditor | Planned | Coming Soon |
+| Governance Risk Compliance | Planned | Coming Soon |
 
 </div>
